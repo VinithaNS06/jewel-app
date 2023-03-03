@@ -1,0 +1,32 @@
+const teamWorkReviews = [ 
+    {id: 1, 
+        slide: [
+            {id: 1,
+            content: `A great place to start your career. The Management is dedicated to the company's success as well as employee's growth. One great place to learn new things. And Company is providing the best business solutions and services for start-ups as well as large corporations.`, 
+            profilePic: '/assets/images/home/teamwork/1.jpg', 
+            name: 'Bhakyavthi B',
+        }, 
+        {id: 2,
+        content: `An outstanding company to start your career, a management team that is dedicated both to the company’s success and its employees' gratification. This is the mark of a successful company. This company has built its reputation for excellence by providing the latest business solutions for start-ups and large corporations.`,
+        profilePic: '/assets/images/home/teamwork/2.jpg',
+        name: 'Mani Maaran M', 
+    }, 
+    {id: 3,
+    content: `M8 has a very professional team who are passionate about delivering quality services and innovative in developing new digital products! Management and HR is great, they are very friendly and they take cater well  to their employee's professional  and personal growth!`,        profilePic: '/assets/images/home/teamwork/3.jpg',        name: 'Sivagaami Ammal D',      },    ],  },  {    id: 2,    slide: [      {        id: 1,        content: `Great company to start your career and learn new things. Management is so good in helping the employees.`,
+    profilePic: '/assets/images/home/teamwork/4.jpg',
+    name: 'Raajkiran L', 
+}, 
+{id: 2, 
+content: `Excellent place to learn and friendly colleagues to cheer up. Very young and experienced talents in M8 IT solutions.awesome team `,
+profilePic: '/assets/images/home/teamwork/2.jpg',
+name: 'Mozhi Cholan A',
+},
+{
+    id: 3,
+    content: `Good place to work. Great place to learn new things. Since it is a product based company, we got lot of opportunities to unravel the potential within each of us. Decent salary and hike based on the performance appraisal.`,
+    profilePic: '/assets/images/home/teamwork/3.jpg', 
+    name: 'Sumangali G',}, 
+], 
+},
+]
+export default teamWorkReviews
